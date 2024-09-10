@@ -16,7 +16,8 @@ https://github.com/user-attachments/assets/0b58a6eb-df75-46f1-baac-67770406ee01
 ## Playable Demo
 1. Download ```Build.zip``` in this repo
 2. Unzip the file
-3. Launch the ```.exe``` file
+3. Launch the Unity game by double clicking the ```.exe``` file
+4. Run a rasa server with configuration in [this repo](https://github.com/FoxtrotPipe/EceFyp_RasaNluComponent)
 
 ## Presentation Slides w/ Results
 ![image](https://github.com/user-attachments/assets/e7511fc0-23b2-437a-9402-c7d6d9d99879)
