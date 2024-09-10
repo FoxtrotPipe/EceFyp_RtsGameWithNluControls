@@ -1,0 +1,1 @@
+public enum BuildingType { Base, ConstructionSite, Campfire, Cannon }

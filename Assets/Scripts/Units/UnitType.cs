@@ -1,0 +1,1 @@
+public enum UnitType { Soldier, Engineer, Custom }

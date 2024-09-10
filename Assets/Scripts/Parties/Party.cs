@@ -1,0 +1,1 @@
+public enum Party { Neutral, Player, CPU }
